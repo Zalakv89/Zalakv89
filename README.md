@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on testing.
 - 🌱 I’m currently learning Selenium and Open Source.
-- 🤔 I’m looking for help with Specflow framework/
+- 🤔 I’m looking for help with Specflow framework.
 - 💬 Ask me about testing and open source.
 - ⚡ Fun fact: I am very new to GitHub and Open Source.
 

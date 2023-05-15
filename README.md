@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Selenium and Open Source.
 - 🤔 I’m looking for help with Specflow framework/
 - 💬 Ask me about testing and open source.
-- ⚡ Fun fact: I am very new to Git and Open Source.
+- ⚡ Fun fact: I am very new to GitHub and Open Source.
 
 <!--
 **Zalakv89/Zalakv89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
